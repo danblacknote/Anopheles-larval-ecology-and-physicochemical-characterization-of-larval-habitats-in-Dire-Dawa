@@ -15,8 +15,9 @@ Understanding mosquito larval ecology is crucial for effective vector control. T
    🏙️ Dominance: The invasive Anopheles stephensi was the most predominant species, accounting for 75% (2,194/2,934) of emerged adults.
    🌍 Rural Expansion: An. stephensi was found breeding in rural areas and natural habitats (river edges), co-existing with An. arabiensis and An. amharicus.
    🧱 Habitat Preference: Uncovered brick/concrete water tankers and plastic sheets were the most prolific artificial habitats.
-   💧 Water Chemistry: Larval presence was positively correlated with water pH and water pressure, though most habitats were predominantly fresh water.
+   💧 Water Chemistry: Larval presence was positively correlated with water pH and water pressure, though most habitats were predominantly freshwater.
    🚨 Intervention Gap: Larval presence was not associated with the presence of larviciding interventions, highlighting an urgent need for improved larval source management (LSM) strategies.
+
 
 
 
@@ -43,7 +44,9 @@ Understanding mosquito larval ecology is crucial for effective vector control. T
 └── 📝 README.md
 ```
 
- 📊 Key Visualizations
+
+ ## 📊 Key Visualizations
+
 
 Click on the dropdown menus below to expand and view the key figures from the study.
 
@@ -128,7 +131,8 @@ Click on the dropdown menus below to expand and view the key figures from the st
 
 
 
- 👥 Authors & Affiliations
+
+ ## 👥 Authors & Affiliations
 
    Ephrem Abiy (Jimma University)
    Teshome Degefa (Jimma University)
@@ -142,10 +146,13 @@ Click on the dropdown menus below to expand and view the key figures from the st
    Guiyun Yan (University of California at Irvine)
    Delenasaw Yewhalaw (Jimma University)
 
- 📜 Citation
+   
+
+ ## 📜 Citation
 
 ## Pre-print:
 > Abiy E, Degefa T, Balkew M, Merga H, Zewdu D, Ayala A, Atieli H, Lee MC, Zhou G, Yan G, Yewhalaw D. Anopheles larval ecology and physicochemical characterization of larval habitats in Dire Dawa: an area colonized by Anopheles stephensi in Eastern Ethiopia [Preprint]. Research Square. 2026. DOI: 10.21203/rs.3.rs-8442371/v1
+
 
 ## Published Version:
 > Abiy E, Degefa T, Balkew M, Merga H, Zewdu D, Ayala A, Atieli H, Lee MC, Zhou G, Yan G, Yewhalaw D. Anopheles larval ecology and physicochemical characterization of larval habitats in Dire Dawa: an area colonized by Anopheles stephensi in Eastern Ethiopia. Malar J. 2026; 1:100008.
