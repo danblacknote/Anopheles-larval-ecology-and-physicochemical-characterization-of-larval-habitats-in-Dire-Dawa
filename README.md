@@ -12,11 +12,10 @@
 Understanding mosquito larval ecology is crucial for effective vector control. This 16-month longitudinal study (February 2023 – December 2024) characterized Anopheles larval habitats across urban, peri-urban, and rural settings in Dire Dawa City Administration, Eastern Ethiopia. 
 
 ## Key Findings:
-   🏙️ Dominance: The invasive Anopheles stephensi was the most predominant species, accounting for 75% (2,194/2,934) of emerged adults.
-   🌍 Rural Expansion: An. stephensi was found breeding in rural areas and natural habitats (river edges), co-existing with An. arabiensis and An. amharicus.
-   🧱 Habitat Preference: Uncovered brick/concrete water tankers and plastic sheets were the most prolific artificial habitats.
-   💧 Water Chemistry: Larval presence was positively correlated with water pH and water pressure, though most habitats were predominantly freshwater.
-   🚨 Intervention Gap: Larval presence was not associated with the presence of larviciding interventions, highlighting an urgent need for improved larval source management (LSM) strategies.
+🏙️ Dominance: The invasive Anopheles stephensi was the most predominant species, accounting for 75% (2,194/2,934) of emerged adults.
+🌍 Rural Expansion: An. stephensi was found breeding in rural areas and natural habitats (river edges), co-existing with An. arabiensis and An. amharicus.
+🧱 Habitat Preference: Uncovered brick/concrete water tankers and plastic sheets were the most prolific artificial habitats.
+💧 Water Chemistry: Larval presence was positively correlated with water pH and water pressure, though most habitats were predominantly freshwater.🚨 Intervention Gap: Larval presence was not associated with the presence of larviciding interventions, highlighting an urgent need for improved larval source management (LSM) strategies.
 
 
 
